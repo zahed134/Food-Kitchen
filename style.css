@@ -3,6 +3,7 @@ body{
 }
 h1{
     font-size: 40px;
+    
 }
 .orange-color{
     color: orange;
@@ -14,13 +15,14 @@ section{
 }
 }
 .half-width{
-    width: 80%;
+    width: 20%;
     padding-left: 5%;
 }
 .half-width img{
     width: 80%;
-
+    
 }
+
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(orange, blue);
@@ -30,3 +32,40 @@ section{
     border-radius: 5px;
 }
     
+.about-banner{
+    background-image: url(Images/7.png);
+    background-repeat: no-repeat;
+
+}
+.about-me{
+    background-image: url(Images/7.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.recipies{
+    text-align: center;
+    padding: 20px;
+}
+.recipies p{
+    text-align: center;
+    padding: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.food-item-area{
+    width: 30%;
+    margin: 3%;
+    padding" 20px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 20px gray;
+    margin-bottom: 100px;
+
+.food-item-area h2{
+    color: black;   
+}
+.food-item-area img{
+    width: 100%;
+}
+
+
+}
